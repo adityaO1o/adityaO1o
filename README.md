@@ -9,8 +9,8 @@
 </p>
 
 <div align="center">
-  <a href="https://www.chaoticjack.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-www.chaoticjack.com-00D9FF?style=for-the-badge&logoColor=white" />
+  <a href="https://www.chaoticjack.in" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-www.chaoticjack.in-00D9FF?style=for-the-badge&logoColor=white" />
   </a>
   <a href="mailto:aditya2562sharma@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -32,7 +32,7 @@ role: Full Stack Developer & Entrepreneur
 location: Vikaspuri, Delhi, India
 education: B.Tech CS @ BPIT (2nd Year) | Expected July 2027
 company: Founder & CEO @ Chaotic Jack (June 2025 - Present)
-previous: Development Head @ MDM Consulting
+previous: Web Developer Intern @ MDM Consulting
 expertise: 
   - Full Stack Web Development (React, Next.js, Firebase)
   - WordPress E-commerce Solutions (WooCommerce, Razorpay)
@@ -45,6 +45,7 @@ achievements:
   - 💼 Founded digital marketing agency from scratch
 current_focus: ["AI/ML", "LLM Models", "Predictive Analytics", "SSR Optimization"]
 
+
 💼 Professional Journey
 🚀 Founder & CEO - Chaotic Jack June 2025 - Present
 Built digital marketing agency from ground up - handled client acquisition, onboarding, project management, and delivery
@@ -55,15 +56,17 @@ Managed end-to-end project lifecycle including documentation, technical architec
 
 Achieved 25% efficiency increase through implementing scalable frontend/backend architectures
 
-💻 Web Developer - MDM Consulting June 2025 - Aug 2025
-Developed responsive interfaces using React, HTML, CSS, JavaScript
+Reduced development time by 30% through optimized workflows and reusable component libraries
+
+💻 Web Developer Intern - MDM Consulting June 2025 - Aug 2025
+Delivered multiple client projects using React, HTML, CSS, JavaScript
 
 Designed UI/UX prototypes in Figma, improving user experience by 20%
 
 Built backend functionality and API integrations for web applications
 
+Continue freelancing with MDM Consulting on various projects
 
-🛠️ Tech Stack
 <div align="center">
 Frontend Development
 <p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </p>
@@ -75,6 +78,7 @@ Cloud & DevOps
 <p> <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
 AI/ML & Programming
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Structures-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> </p> </div>
+
 🎨 Featured Projects
 🛍️ E-Commerce Solutions (WordPress/WooCommerce)
 <table> <tr> <td width="50%">
@@ -227,7 +231,7 @@ text
 📬 Let's Connect!
 <div align="center">
 💼 Looking for collaboration on exciting projects!
-<p> <a href="mailto:aditya2562sharma@gmail.com"> <img src="https://img.shields.io/badge/Email-aditya2562sharma%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.chaoticjack.com" target="_blank"> <img src="https://img.shields.io/badge/Website-www.chaoticjack.com-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://linkedin.com/in/aditya-sharma" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p> <a href="mailto:aditya2562sharma@gmail.com"> <img src="https://img.shields.io/badge/Email-aditya2562sharma%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.chaoticjack.in" target="_blank"> <img src="https://img.shields.io/badge/Website-www.chaoticjack.in-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://linkedin.com/in/aditya-sharma" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 🌟 Open to:
 ✅ Freelance Projects | ✅ Full-time Opportunities | ✅ Technical Collaborations | ✅ Startup Ventures
 
