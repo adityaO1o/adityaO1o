@@ -110,7 +110,7 @@ current_focus: ["AI/ML", "LLM Models", "Predictive Analytics", "SSR Optimization
 
 </td> <td width="50%">
 
-**[Zx3 Clothing Manufacturer](https://zx3.in/)**  
+**[Zx3 Clothing Manufacturer](https://zx3.co.in/)**  
 *#1 B2B Manufacturing Platform*
 
 - Leading clothing manufacturer website
@@ -167,7 +167,7 @@ current_focus: ["AI/ML", "LLM Models", "Predictive Analytics", "SSR Optimization
 
 </td> <td width="50%">
 
-**[TCH Medical](https://tchmedical.in/)**  
+**[TCH Medical](https://tchmedical.com/)**  
 *Healthcare E-Commerce Platform*
 
 - Premium medical equipment marketplace
