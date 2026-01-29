@@ -15,7 +15,7 @@
   <a href="mailto:aditya2562sharma@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/aditya-sharma" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-sharma-78268a219/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -30,7 +30,7 @@
 name: Aditya Sharma
 role: Full Stack Developer & Entrepreneur
 location: Vikaspuri, Delhi, India
-education: B.Tech CS @ BPIT (2nd Year) | Expected July 2027
+education: B.Tech CS @ BPIT (3rd Year) | Expected July 2027
 company: Founder & CEO @ Chaotic Jack (June 2025 - Present)
 previous: Web Developer Intern @ MDM Consulting
 expertise: 
@@ -40,9 +40,10 @@ expertise:
   - Client Management & Project Leadership
 achievements:
   - 🏆 35+ projects delivered across e-commerce, healthcare, real estate
+  - � Founded & scaled Chaotic Jack from scratch - handled everything from client acquisition to delivery
+  - 🤝 End-to-end agency management: client hunting, onboarding, deal closure, project management
   - 📈 25% efficiency increase through scalable architectures
-  - 🎯 95% client satisfaction rate
-  - 💼 Founded digital marketing agency from scratch
+  - 🎯 95% client satisfaction with complete documentation & team leadership
 current_focus: ["AI/ML", "LLM Models", "Predictive Analytics", "SSR Optimization"]
 ```
 
@@ -53,9 +54,11 @@ current_focus: ["AI/ML", "LLM Models", "Predictive Analytics", "SSR Optimization
 ### 🚀 Founder & CEO - Chaotic Jack
 **June 2025 - Present**
 
-- Built digital marketing agency from ground up - handled client acquisition, onboarding, project management, and delivery
-- Led team in developing 35+ full-stack applications across multiple industries
-- Managed end-to-end project lifecycle including documentation, technical architecture, and client relations
+- Founded digital marketing agency independently after internship - own and operate the complete business
+- Handle complete business operations: client hunting, deal negotiation, onboarding, and project closure
+- Led team in developing 35+ full-stack applications across e-commerce, healthcare, real estate, and manufacturing
+- Manage end-to-end project lifecycle: requirements gathering, technical architecture, development, documentation, and delivery
+- Established comprehensive team leadership and project management processes from scratch
 - Achieved 25% efficiency increase through implementing scalable frontend/backend architectures
 - Reduced development time by 30% through optimized workflows and reusable component libraries
 
@@ -94,118 +97,162 @@ current_focus: ["AI/ML", "LLM Models", "Predictive Analytics", "SSR Optimization
 
 ## 🎨 **Featured Projects**
 
-### 🛍️ E-Commerce Solutions (WordPress/WooCommerce)
+### 🛍️ WordPress Solutions (15+ Projects)
 
 <table> <tr> <td width="50%">
-Hygear Fashion
-Full-Stack E-Commerce Store
+
+**[Hygear Fashion](https://hygearfashion.com/)**  
+*Full-Stack E-Commerce Store*
 
 - Complete online fashion store with payment integration
 - WooCommerce + Razorpay implementation
 - Responsive design & inventory management
 
 </td> <td width="50%">
-Zx3 Clothing Manufacturer
-B2B Manufacturing Platform
 
-- #1 Clothing manufacturer website
+**[Zx3 Clothing Manufacturer](https://zx3.in/)**  
+*#1 B2B Manufacturing Platform*
+
+- Leading clothing manufacturer website
 - Product catalog & inquiry system
 - Enterprise-level functionality
 
-</td> </tr> </table>
+</td> </tr> <tr> <td width="50%">
 
-### 🏢 React/Next.js Enterprise Applications
+**[Astaara Estates](https://astaaraestates.com/)**  
+*Real Estate Group*
 
-<table> <tr> <td width="50%">
-Chaotic Jack
-Digital Marketing Agency 🚀 My Own Company
-
-- Founded in June 2025
-- Full-stack agency website built with React
-- Client portfolio & service showcase
-- Role: Founder & CEO
+- Premium real estate property listings
+- Multi-project portfolio showcase
+- Advanced property search & filters
 
 </td> <td width="50%">
-TCH Medical
-Healthcare E-Commerce Platform
+
+**[Saichem Organics](https://saichemindia.com/)**  
+*Chemical Manufacturing*
+
+- Corporate website for chemical manufacturer
+- Product specifications & catalog
+- B2B inquiry management system
+
+</td> </tr> <tr> <td width="50%">
+
+**[Vidyapeeth](https://vidyapeeth.org.in/)**  
+*Education & LMS Platform*
+
+- Complete Learning Management System
+- Course management & student portal
+- Online education platform
+
+</td> <td width="50%" align="center">
+
+**+ 10 More WordPress Projects**
+
+*E-commerce, Corporate Sites,*  
+*Portfolios & Business Solutions*
+
+</td> </tr> </table>
+
+### 🏢 React/Next.js Enterprise Applications (20+ Projects)
+
+<table> <tr> <td width="50%">
+
+**[Chaotic Jack](https://chaoticjack.in/)** 🚀  
+*My Digital Marketing Agency*
+
+- **Founder & CEO** - Started June 2025
+- Full-stack agency website built with React
+- Client portfolio & service showcase
+- Complete business operations platform
+
+</td> <td width="50%">
+
+**[TCH Medical](https://tchmedical.in/)**  
+*Healthcare E-Commerce Platform*
 
 - Premium medical equipment marketplace
 - React-based frontend with dynamic catalog
 - Integration with payment & logistics APIs
 
 </td> </tr> <tr> <td width="50%">
-XD Media
-Brand Building Agency
+
+**[XD Media](https://www.xdmedia.in/)**  
+*Brand Building Agency*
 
 - Modern React application
 - Brand portfolio showcase
 - Interactive UI/UX design
 
 </td> <td width="50%">
-Expeditious Prints
-Print-on-Demand Platform
+
+**[Expeditious Prints](https://expeditiousprints.com/)**  
+*Print-on-Demand Platform*
 
 - Vistaprint-style printing services
 - Custom card design tool
 - E-commerce integration
 
 </td> </tr> <tr> <td width="50%">
-Precision Engineering
-Industrial Manufacturing
+
+**[Precision Engineering](https://precisions.in/)**  
+*Industrial Manufacturing*
 
 - Heavy machinery product catalog
 - Technical specifications display
 - B2B inquiry system
 
 </td> <td width="50%">
-The Artist Salons
-Salon Franchise Brand
+
+**[The Artist Salons](https://theartistsalons.com/)**  
+*Salon Franchise Brand*
 
 - Franchise management system
 - Location finder & booking
 - Brand presence website
 
 </td> </tr> <tr> <td width="50%">
-SBMW Construction
-Real Estate & Construction
+
+**[SBMW Construction](https://sbmw.co.in/)**  
+*Real Estate & Construction*
 
 - Multi-project builder portfolio
 - Property listings & galleries
 - Lead generation system
 
 </td> <td width="50%">
-Mohit Overseas
-Polymer Distribution
+
+**[Mohit Overseas](https://mohitoverseas.com/)**  
+*Polymer Distribution*
 
 - Pan-India dealer network
 - Product catalog & specifications
 - Business inquiry portal
 
 </td> </tr> <tr> <td width="50%">
-Dharmik Threads
-Clothing Brand
+
+**[Dharmik Threads](https://dharmikthreads.in/)**  
+*Clothing Brand*
 
 - Brand existence & storytelling
 - Product showcase
 - E-commerce ready platform
 
-</td> <td width="50%"> </td> </tr> </table>
+</td> <td width="50%" align="center">
 
-### 🏘️ Real Estate & Corporate Solutions
+**+ 11 More React Projects**
 
-| Project | Technology | Description |
-| --- | --- | --- |
-| Astaara Estates | WordPress | Premium real estate group website with property listings |
-| Saichem Organics | WordPress | Chemical manufacturing corporate website |
-| Vidyapeeth | WordPress/LMS | Education platform with Learning Management System |
+*Enterprise Apps, E-commerce,*  
+*Healthcare & Business Solutions*
 
-<div align="center"> <img src="https://img.shields.io/badge/Total_Projects-35+-00D9FF?style=for-the-badge&logo=checkmarx&logoColor=white" /> <img src="https://img.shields.io/badge/WordPress_Sites-15+-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/React_Apps-20+-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> </div>
+</td> </tr> </table>
 
----
+<div align="center"> 
 
-## 📊 **GitHub Analytics**
+<img src="https://img.shields.io/badge/Total_Projects-35+-00D9FF?style=for-the-badge&logo=checkmarx&logoColor=white" /> <img src="https://img.shields.io/badge/WordPress_Sites-15+-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/React_Apps-20+-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
 
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityaO1o&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaO1o&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" /> </div> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaO1o&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" /> <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityaO1o&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" /> </div>
+</div>
+
+
 
 ---
 
@@ -234,16 +281,17 @@ Clothing Brand
 
 <div align="center">
 
-- 🎯 Client Project Management & Onboarding
-- 🤝 Team Leadership & Documentation
-- 🔧 Problem-Solving & Debugging
-- 📊 Agile Development Methodologies
-- 🌐 RESTful API Design & Integration
-- 🔒 Security & Performance Optimization
-- 📱 Responsive & Mobile-First Design
-- ☁️ Cloud Infrastructure Management
-- 💰 Payment Gateway Integration (Razorpay, Stripe)
-- 📈 SEO & Google Analytics Implementation
+- 💼 **Agency Operations**: Client acquisition, deal negotiation, business closure
+- 🎯 **Project Management**: End-to-end lifecycle from requirements to delivery
+- 🤝 **Team Leadership**: Complete documentation, mentoring, and coordination
+- 🤵 **Client Onboarding**: Requirements gathering, proposal creation, stakeholder management
+- 📊 **Agile Development**: Sprint planning, daily standups, retrospectives
+- 🌐 **Full Stack Development**: React, Next.js, Firebase, WordPress, PHP
+- 🔧 **Problem-Solving & Debugging**: Root cause analysis and systematic resolution
+- 🔒 **Security & Performance**: Optimization, best practices, and scalability
+- 📱 **Responsive Design**: Mobile-first, cross-browser compatibility
+- 💰 **Payment Integration**: Razorpay, Stripe, gateway implementations
+- 📈 **Digital Strategy**: SEO, Analytics, conversion optimization
 
 </div>
 
@@ -255,7 +303,7 @@ Clothing Brand
 
 **💼 Looking for collaboration on exciting projects!**
 
-<p> <a href="mailto:aditya2562sharma@gmail.com"> <img src="https://img.shields.io/badge/Email-aditya2562sharma%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.chaoticjack.in" target="_blank"> <img src="https://img.shields.io/badge/Website-www.chaoticjack.in-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://linkedin.com/in/aditya-sharma" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p> <a href="mailto:aditya2562sharma@gmail.com"> <img src="https://img.shields.io/badge/Email-aditya2562sharma%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.chaoticjack.in" target="_blank"> <img src="https://img.shields.io/badge/Website-www.chaoticjack.in-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/aditya-sharma-78268a219/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
 **🌟 Open to:**
 
@@ -265,10 +313,3 @@ Clothing Brand
 
 </div>
 
-<div align="center"> 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-⭐ **Star my repositories if you find them useful!**
-
-</div> 
